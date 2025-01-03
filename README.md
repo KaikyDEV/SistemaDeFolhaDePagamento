@@ -1,7 +1,5 @@
-
-Claro! A seguir está um exemplo de README para o seu projeto no GitHub. Esse arquivo descreve o funcionamento do sistema de Cadastro de Funcionários e Folha de Pagamento, e inclui instruções de instalação e uso.
-
 Sistema de Cadastro de Funcionários e Folha de Pagamento
+
 Este projeto é um sistema simples de Cadastro de Funcionários e Cálculo de Folha de Pagamento, desenvolvido em C#. O sistema permite o cadastro de funcionários, o cálculo de seus salários finais considerando benefícios e descontos, além de gerar relatórios de folha de pagamento. Todos os dados são armazenados em arquivos JSON, permitindo a persistência entre execuções do programa.
 
 Funcionalidades
